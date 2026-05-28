@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervelete",
+        "uuid": 20932380,
+        "checksum": "waqlov"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
